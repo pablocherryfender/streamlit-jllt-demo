@@ -7,7 +7,7 @@ import time
 import matplotlib.pyplot as plt
 
 # openAI key
-openai.api_key = st.secrets["openai"]  # Assuming you've saved the API key in Streamlit secrets
+# openai.api_key = st.secrets["openai"]  # Assuming you've saved the API key in Streamlit secrets
 
 # Set corporate colors for Jones Lang LaSalle
 jll_colors = {
