@@ -322,9 +322,9 @@ if selected == "Project Cost Estimator":
             return None
 
     # Streamlit UI for generating the diagram
-    if st.button("Generate Solution Diagram"):
-        # Generate diagram when the button is clicked
-        diagram_description = generate_diagram_description(project_params)
-        st.subheader("Generated Solution Diagram")
-        st.write(diagram_description)
+    # if st.button("Generate Solution Diagram"):
+    #     # Generate diagram when the button is clicked
+    #     diagram_description = generate_diagram_description(project_params)
+    #     st.subheader("Generated Solution Diagram")
+    #     st.write(diagram_description)
 # ------------------- End of Tabs -------------------
