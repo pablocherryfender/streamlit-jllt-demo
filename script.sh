@@ -1,5 +1,5 @@
 # Since sudo is not available, you can download and install pip manually by following these steps:
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+curl https://bootstrap.pypa.io/pip/3.7/get-pip.py -o get-pip.py
 python3 get-pip.py --user
 
 # Verify pip install
