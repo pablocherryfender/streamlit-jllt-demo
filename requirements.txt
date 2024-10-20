@@ -1,7 +1,4 @@
-streamlit
-pandas
-datetime
-random
-openai
-time
-matplotlib
+streamlit==1.20.0     # Specify the version of Streamlit
+pandas==1.5.3         # Example version for pandas
+openai==0.28.0        # Version for OpenAI library
+matplotlib==3.6.2     # Example version for Matplotlib
