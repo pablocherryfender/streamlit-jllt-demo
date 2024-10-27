@@ -88,7 +88,7 @@ with st.sidebar:
 
 # ------------------- Home Tab -------------------
 if selected == "Home":
-    st.title("Welcome to the BI Solutions Management App")
+    st.title("Welcome to the BI Solutions Sales Management App")
     st.write(
         """
         This application is designed to assist sales managers in managing client relationships and estimating project costs for BI solutions with AI-powered insights.
